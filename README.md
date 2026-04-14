@@ -90,5 +90,5 @@ streamlit run main.py
 
 ## 👨‍💻 Author
 
-**TAPAN JAYDEO WANKHADE**  
+**TAPAN JAYYDEO WANKHADE**  
 Email: [tapanjw@gmail.com](mailto:tapanjw@gmail.com)
